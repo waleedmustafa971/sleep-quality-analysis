@@ -21,7 +21,7 @@ This project analyzes sleep data to identify patterns affecting sleep quality an
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/sleep-quality-analysis.git
+git clone https://github.com/waleedmustafa971/sleep-quality-analysis.git
 cd sleep-quality-analysis
 
 # Create and activate a virtual environment
